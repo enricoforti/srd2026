@@ -38,12 +38,28 @@ This once per year, in person, half-day, hackathon-style event is designed to ca
 | Activity Description                                                                                                                          | Time         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | **Introduction and Overview on the Hackathon Format**<br /> `Enrico Forti`                                                                                         | **10 mins**      |
-| **Part 1 — Hackathon: “Seeding” Macro and Micro Perspectives (Plenary)**                                                                           | **110 mins**     |
-| Each contributor offers a max 8' presentation introducing a specific research “seed” — i.e., a research question looking for a viable empirical strategy; a bleeding edge method looking for possible applications in management research; a dataset that may be of interest for management scholars.<br /><br />Please click on the link next to each contributor's topic to access the seed material.<br /><br />`Bukky Akinsanmi` — Human Capital Capabilities: what has architecture got to do with it? ([seed](/research-seeds/Akinsanmi%20Oyedeji%2C%20Bukky))<br />`Julien Clement` — Esports as a natural laboratory for organizational research ([seed](/research-seeds/Clement%2C%20Julien))<br />`Ying-Ying Hsieh` — Governance in decentralized autonomous orgs (DAOs) ([seed](/research-seeds/Hsieh%2C%20Ying-Ying))<br />`Monika Kackovic` — Computational approaches to culture and creativity ([seed](/research-seeds/Kackovic%2C%20Monika))<br />`Harsh Ketkar` — Organizational design research using computational models ([seed](/research-seeds/Ketkar%2C%20Harsh))<br />`James Riley` — Architectural drivers of status signals ([seed](/research-seeds/Riley%2C%20James))<br /><br />Includes one break (10 mins). | |
-| **Part 2 — Hackathon: Growing the Research Seeds (Parallel Breakout Roundtable Sessions)**                                                                                     | **110 mins**     |
-| Groups of attendees are invited to collaboratively develop research designs. The discussion at each roundtable is semi-structured, centred around the research “seeds” introduced in the plenary and attendees’ research expertise and interests. Scholars at different stages of their careers and from different disciplinary and demographic backgrounds will benefit from this format, since they will have the opportunity to interact in the more intimate and friendly environment of a roundtable. All tables will be provided with a structured template to aid the idea development process and facilitators will annotate the key ideas discussed in each table to facilitate further discussion and research collaborations.<br /><br />Includes one break (10 mins).<br /><br /> <ul> **Seed Table 1.** _Human Capital Capabilities: what has architecture got to do with it?_ <br />Seed Contributor: `Bukky Akinsanmi`<br />Facilitator: `Victoria Sevcenko` <br /><br /> **Seed Table 2.** _Esports as a natural laboratory for organizational research_ <br />Seed Contributor: `Julien Clement`<br />Facilitator: `Enrico Forti` <br /><br /> **Seed Table 3.** _Governance in decentralized autonomous orgs (DAOs)_ <br />Seed Contributor: `Ying-Ying Hsieh`<br />Facilitators: `Kim Claes`, `Piyush Gulati` <br /><br /> **Seed Table 4.** _Computational approaches to culture and creativity_ <br />Seed Contributor: `Monika Kackovic`<br />Facilitator: `Daphne Baldassari` <br /><br />**Seed Table 5.** _Organizational design research using computational models_ <br />Seed Contributor: `Harsh Ketkar`<br />Facilitators: `Maciej Workiewicz`, `Oliver Baumann` <br /><br /> **Seed Table 6.** _Architectural drivers of status signals_ <br />Seed Contributor: `James Riley`<br />Facilitator: `Ulya Tsolmon` <br /><br /></ul> | |
-| **Closing Remarks**                                                                                                                              | **10 mins**      |
+| **Part 1 — Hackathon: “Seeding” Macro and Micro Perspectives (Plenary)**                                                                           | **80 mins**     |
+| Faculty participants share a max 5’ min presentation introducing a specific research “seed” — i.e., a research question looking for a viable empirical strategy; a research method looking for possible applications; or a dataset with underexplored potential.
+about 8-10 presenters and “seeds” TBC
+At the end of the plenary, organizers will briefly review the structure of the roundtables, and the worksheets/templates participants will use when discussing and developing the “seeds” in Part 2 of the event. | |
+| **Part 2 — Hackathon: Growing the Research Seeds (Parallel Breakout Roundtable Sessions)**                                                                                     | **90 mins**     |
+| Groups of participants collaboratively develop research designs. 
+ 
+Each breakout table focuses on one “seed” (introduced in Part 1). Each table is led by a faculty participant using a structured worksheet including: (1) problem definition, (2) theoretical anchors, (3) methodological options, (4) potential datasets, and (5) next-step planning. 
+Structure of breakout time:
+ 
+- Stage 1 (35 minutes): Idea generation and theoretical framing
+- Stage 2 (35 minutes): Methods, data sources, research design sketches
+- Mini break (5 minutes)
+- Stage 3 (20 minutes): Refining contributions and next steps
+ 
+Participants are matched to faculty leads via pre-registration. (preferred), but walk-in participants are also welcome. An onboarding pipeline (using QR codes) has been developed for facilitating the integration of both pre-registered and walk-in participants.
+ 
+Faculty leads should document key ideas and outputs to support cross-table synthesis and follow-up collaboration. 
+ 
+Table Assignment: TBD based on pre-registration. | |
+| **Wrap-Up, and Reflections **                                                                                                                              | **10 mins**      |
 
 <h2>Pre-registration Survey</h2>
 
-Please use this [link](https://insead.eu.qualtrics.com/jfe/form/SV_bvLluvA5hIlGO10) to pre-register yourself to attend Part 2 of the PDW **by July 28, 2023**. Pre-registration is recommended for facilitating interactions during Part 2, but all AOM attendees are welcome to attend the entire PDW without pre-registration.
+Please use this [link](https://LLLLLLLLLL) to pre-register yourself to attend Part 2 of the PDW **by May 1, 2026**. Pre-registration is recommended for facilitating interactions during Part 2, but all AOM attendees are welcome to attend the entire PDW without pre-registration.
