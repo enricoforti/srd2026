@@ -1,3 +1,9 @@
+
 theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
 title: Stillman Research Day 2026
 description: An opportunity to share and discuss research from the Stillman School of Business faculty at Seton Hall University.
+
+
