@@ -22,7 +22,7 @@ Participants (faculty members and students) brainstorm, match questions to data 
 **Nicolas Dahan**, Assistant Professor of Management, Seton Hall University, Stillman School of Business<br>
 **Debra Lee Surface**, Assistant Professor of Marketing, Seton Hall University, Stillman School of Business<br>
  
-<h2>Participants</h2>
+<h2>Research Seeds Contributors</h2>
 
 **Shen Zhang**, Assistant Professor of Finance, Seton Hall University, Stillman School of Business<br>
 **Nicolas Dahan**, Assistant Professor of Management, Seton Hall University, Stillman School of Business<br>
