@@ -26,7 +26,7 @@ Participants (faculty members and students) brainstorm, match questions to data 
 **Nicolas Dahan**, Assistant Professor of Management, Seton Hall University, Stillman School of Business<br>
 **Debra Lee Surface**, Assistant Professor of Marketing, Seton Hall University, Stillman School of Business<br>
 **Jennifer Itzkowitz**, Professor of Finance, Seton Hall University, Stillman School of Business<br>
-**TBC**, Seton Hall University, Stillman School of Business<br>
+**Daniel Ladik**, Associate Professor of Marketing, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
