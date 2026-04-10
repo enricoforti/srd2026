@@ -62,4 +62,5 @@ _Pre-registration is recommended for facilitating interactions during Part 2, bu
 
 Please use this [link](https://forms.cloud.microsoft/r/VRBahh5Y5F) to pre-register yourself to attend Part 2 of the event **by May 1, 2026**. Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration.
 
-[![RSVP](https://img.shields.io/badge/Save-Your--Spot-ff69b4?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
+[![RSVP](https://img.shields.io/badge/Save-Your--Spot-ff69b4?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F) [![Questions?](https://img.shields.io/badge/Ask_a-Question-64748b?style=for-the-badge)](mailto:Melody.Puliti@shu.edu?subject=StillmanResearchDay2026%20-%20Questions&body=Hello)
+
