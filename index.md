@@ -13,7 +13,7 @@ Participants (faculty members and students) brainstorm, match questions to data 
 
 **All welcome!** Stillman School of Business students that have shown high potential and curiosity about research are particularly encouraged to participate. Faculty and students from other SHU schools/departments and faculty visiting from other institutions may be also welcome to join, if appropriate.
 
-_Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration. [Sign-up here by May 1, 2026](https://forms.cloud.microsoft/r/VRBahh5Y5F)_
+_Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration. [Sign-up here](https://forms.cloud.microsoft/r/VRBahh5Y5F) by **May 1, 2026**_
 
 <h2>Organizers</h2>
 
@@ -64,4 +64,4 @@ _Pre-registration is recommended for facilitating interactions during Part 2, bu
 
 Please use this [link](https://forms.cloud.microsoft/r/VRBahh5Y5F) to pre-register yourself to attend Part 2 of the event **by May 1, 2026**. Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration.
 
-[![Sign-up](https://img.shields.io/badge/Participant-Sign--up-informational?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
+[![RSVP](https://img.shields.io/badge/Save-Your--Spot-ff69b4?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
