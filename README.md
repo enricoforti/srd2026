@@ -4,12 +4,14 @@
 
 [![Sign-up](https://img.shields.io/badge/Participant-Sign--up-informational?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
 
-An in person, half-day, hackathon-style event designed to catalyze new research by using a flipped format: Stillman School of Business faculty members share upfront research “seeds”:
+An in person, half-day, hackathon-style event designed to catalyze new research by using a flipped format: 
+
+1. **Stillman School of Business faculty members** introduce research “seeds”:
 - a research question in search of an empirical strategy,
 - a method looking for applications, or
 - a dataset with underexplored potential.
 
-Participants (faculty members and students) brainstorm, match questions to data and methods, and sketch concrete next steps for publishable projects. By the end of this session, participants will have sharpened research ideas and may have produced concrete next steps with potential collaborators—such as draft research designs or data-method pairings.
+2. **Participants (faculty members and students)** brainstorm, match questions to data and methods, and sketch concrete next steps for publishable projects. By the end of this session, participants will have sharpened research ideas and may have produced concrete next steps with potential collaborators—such as draft research designs or data-method pairings.
 
 **All welcome!** Stillman School of Business sophomores and juniors are particularly encouraged to participate. Faculty and students from other SHU schools/departments and faculty visiting from other institutions are also welcome to join.
 
@@ -58,7 +60,7 @@ _Pre-registration is recommended for facilitating interactions during Part 2, bu
 | **Wrap-Up and Reflections** | **10 mins** |
 | **Networking Reception**<br><br>Jubilee Hall, 4th Floor Atrium and Terrazza | **90 mins** |
 
-## Sign-up Survey
+## Sign-up Now!
 
 Please use this [link](https://forms.cloud.microsoft/r/VRBahh5Y5F) to pre-register yourself to attend Part 2 of the event **by May 1, 2026**. Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration.
 
