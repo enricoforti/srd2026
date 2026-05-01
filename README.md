@@ -42,8 +42,6 @@ _Pre-registration is recommended for facilitating interactions during Part 2, bu
 **Daniel-Martin Cantave**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
-**TBC**, Seton Hall University, Stillman School of Business<br>
-**TBC**, Seton Hall University, Stillman School of Business<br>
 
 <h2>Organizational Support</h2>
 
